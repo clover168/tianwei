@@ -1,39 +1,39 @@
-{ "urls": [{ "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/tianwei/refs/heads/main/本地【天微VIP线】/api.json", "name": "本地【天微VIP线】" },
+{ "urls": [{ "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/tianwei/refs/heads/main/【天微VIP线】/api.json", "name": "【天微VIP线】" },
 
-{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/tianwei/refs/heads/main/本地【七星影视】/api.json", "name": "本地【七星影视】" },
+{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/tianwei/refs/heads/main/【七星影视】/api.json", "name": "【七星影视】" },
 
-{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/tianwei/refs/heads/main/本地【饭太硬线】/api.json", "name": "本地【饭太硬线】" },
+{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/tianwei/refs/heads/main/【饭太硬线】/api.json", "name": "【饭太硬线】" },
 
-{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/tianwei/refs/heads/main/本地【小虎斑线】/api.json", "name": "本地【小虎斑线】" },
+{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/tianwei/refs/heads/main/【小虎斑线】/api.json", "name": "【小虎斑线】" },
 
-{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/tianwei/refs/heads/main/本地【喵影视线】/api.json", "name": "本地【喵影视线】" },
+{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/tianwei/refs/heads/main/【喵影视线】/api.json", "name": "【喵影视线】" },
 
-{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/tianwei/refs/heads/main/本地【真心线路】/api.json", "name": "本地【真心线路】" },
+{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/tianwei/refs/heads/main/【真心线路】/api.json", "name": "【真心线路】" },
 
-{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/tianwei/refs/heads/main/本地【D佬线路】/api.json", "name": "本地【D佬线路】" },
+{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/tianwei/refs/heads/main/【D佬线路】/api.json", "name": "【D佬线路】" },
 
-{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/tianwei/refs/heads/main/本地【拾光线路】/api.json", "name": "本地【拾光线路】" },
+{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/tianwei/refs/heads/main/【拾光线路】/api.json", "name": "【拾光线路】" },
 
-{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/tianwei/refs/heads/main/本地【香雅情线】/api.json", "name": "本地【香雅情线】" },
+{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/tianwei/refs/heads/main/【香雅情线】/api.json", "name": "【香雅情线】" },
 
-{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/tianwei/refs/heads/main/本地【王二小线】/api.json", "name": "本地【王二小线】" },
+{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/tianwei/refs/heads/main/【王二小线】/api.json", "name": "【王二小线】" },
 
-{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/tianwei/refs/heads/main/本地【肥猫线路】/api.json", "name": "本地【肥猫线路】" },
+{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/tianwei/refs/heads/main/【肥猫线路】/api.json", "name": "【肥猫线路】" },
 
-{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/tianwei/refs/heads/main/本地【摸鱼线路】/api.json", "name": "本地【摸鱼线路】" },
+{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/tianwei/refs/heads/main/【摸鱼线路】/api.json", "name": "【摸鱼线路】" },
 
-{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/tianwei/refs/heads/main/本地【讴歌线路】/api.json", "name": "本地【讴歌线路】" },
+{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/tianwei/refs/heads/main/【讴歌线路】/api.json", "name": "【讴歌线路】" },
 
-{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/tianwei/refs/heads/main/本地【南风线路】/api.json", "name": "本地【南风线路】" },
+{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/tianwei/refs/heads/main/【南风线路】/api.json", "name": "【南风线路】" },
 
-{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/tianwei/refs/heads/main/本地【骚零影视】/api.json", "name": "本地【骚零影视】" },
+{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/tianwei/refs/heads/main/【骚零影视】/api.json", "name": "【骚零影视】" },
 
-{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/tianwei/refs/heads/main/本地【天天开心】/api.json", "name": "本地【天天开心】" },
+{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/tianwei/refs/heads/main/【天天开心】/api.json", "name": "【天天开心】" },
 
-{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/tianwei/refs/heads/main/本地【小米线路】/api.json", "name": "本地【小米线路】" },
+{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/tianwei/refs/heads/main/【小米线路】/api.json", "name": "【小米线路】" },
 
-{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/tianwei/refs/heads/main/本地【潇洒线路】/api.json", "name": "本地【潇洒线路】" },
+{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/tianwei/refs/heads/main/【潇洒线路】/api.json", "name": "【潇洒线路】" },
 
-{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/tianwei/refs/heads/main/本地【白嫖线路】/api.json", "name": "本地【白嫖线路】" },
+{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/tianwei/refs/heads/main/【白嫖线路】/api.json", "name": "【白嫖线路】" },
 
-{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/tianwei/refs/heads/main/本地【戏曲音乐】/api.json", "name": "本地【戏曲音乐】" }]}
+{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/tianwei/refs/heads/main/【戏曲音乐】/api.json", "name": "【戏曲音乐】" }]}
